@@ -4,6 +4,7 @@
 - 💬 Code **My purpose in using Github: I want to show people my coding knowledge. In this way, I think my skills in my CV are more measurable.**
 - 🌱 I’m currently learning **Kotlin, Flutter, JetpackCompose etc.**
 - 📫 Contact **c.can.sanaral@gmail.com**
+- 📖 Medium <a href="https://medium.com/@cemalcansanaral">Cemal Can Şanaral</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
